@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chapters 游戏开发"
+  short_description: "从核心情绪与改编 pitch 到二十章规划、付费选择设计和英文分支脚本制作"
+  default_prompt: "用 $chapters-game-development 改编这本小说，先提炼核心情绪供我确认，再制作二十章游戏的 pitch。"

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "S01",
+    "path": "/Users/zhangshiyi/Desktop/枫叶互动/学习/付费选项分类中文注释版.xlsx",
+    "sha256": "1d7f9d8dc79e1e8aa8d1b503568d65d513aedb8d4a98588da6474f70469e18bf"
+  },
+  {
+    "id": "S02",
+    "path": "/Users/zhangshiyi/Desktop/枫叶互动/学习/常用术语.pdf",
+    "sha256": "0e38c2d48471bcf7d97bb4cc6d649bb5f400c08b9f2218d43386ae69df3ee99c"
+  },
+  {
+    "id": "S03",
+    "path": "/Users/zhangshiyi/Desktop/枫叶互动/学习/爆款书分析A-.docx",
+    "sha256": "0b0b17c5410c6b3489cd2ff8abd0761a1b14e664d0d182d3562d60d6c2eeb46f"
+  },
+  {
+    "id": "S04",
+    "path": "/Users/zhangshiyi/Desktop/枫叶互动/学习/Chapters内容编辑Guidebook（请复制一份再编辑） 副本.xlsx",
+    "sha256": "0db9339af8592d056dcf455ba6640546b578fe5381376eff1fc3e12d5d3a4f3a"
+  },
+  {
+    "id": "S05",
+    "path": "/Users/zhangshiyi/Desktop/枫叶互动/学习/PC设计.pdf",
+    "sha256": "cc32d69f5f03287a2ad9c03118d75c2864928e7e00ce91d4c022f7a11f91c01a"
+  },
+  {
+    "id": "S06",
+    "path": "/Users/zhangshiyi/Desktop/枫叶互动/学习/chapters常用术语&结构.pdf",
+    "sha256": "8330b7fad5c168115194286eb9fe8fbdaf05ea2b5a329de07aa584884176d6ab"
+  },
+  {
+    "id": "S07",
+    "path": "/Users/zhangshiyi/Desktop/枫叶互动/学习/Premium Choices Guidelines for Chapters Community Writers .pptx",
+    "sha256": "ea84c65feb2d52008a5bc8887eef719df158cebe57ee347d53beaee90c02c4eb"
+  },
+  {
+    "id": "S08",
+    "path": "/Users/zhangshiyi/Desktop/创投和编剧学习/编剧技巧学习及案例分析/罗伯特麦基故事实战复习手册.docx",
+    "sha256": "e388405d84b043f42d380558c4bb1e87268f5da3a53718c979fceacede765370"
+  },
+  {
+    "id": "S09",
+    "path": "/Users/zhangshiyi/Desktop/创投和编剧学习/编剧技巧学习及案例分析/女性向故事写作章法/爱情小说为什么总长这样A Natural History of the Romance Novel.epub",
+    "sha256": "a43f4f5b7307220570311cc960c0f1fcf4bec8fcbe84094b2ab614a2e9d078ff"
+  },
+  {
+    "id": "S10",
+    "path": "/Users/zhangshiyi/Desktop/创投和编剧学习/编剧技巧学习及案例分析/女性向故事写作章法/爱情故事章法Romancing the Beat_ Story Structure for Romance Novels (How to Write Kissing Books) (Volume 1).epub",
+    "sha256": "632e2727cd0562c1251f64a67163d5680224605618eb2153ec4c985d8191c75a"
+  },
+  {
+    "id": "S11",
+    "path": "/Users/zhangshiyi/Desktop/创投和编剧学习/编剧技巧学习及案例分析/女性向故事写作章法/女读者为什么消费言情Reading the Romance- Women, Patriarchy, and Popular Literature.pdf",
+    "sha256": "41301ecd9dd4d6011262eea80d6238ff981155f2c15899ccbac1dcabff42d86a"
+  },
+  {
+    "id": "S12",
+    "path": "/Users/zhangshiyi/Desktop/创投和编剧学习/编剧技巧学习及案例分析/女性向故事写作章法/女性通俗文化Loving With a Vengeance_ Mass Produced Fantasies for Women.pdf",
+    "sha256": "30988cb43c718301c27d86259707753437df1c5565c2ff51c0c193c5863af0f3"
+  },
+  {
+    "id": "S13",
+    "path": "/Users/zhangshiyi/Desktop/枫叶互动/skills/chapters-plugin-0.45.0.zip",
+    "sha256": "0a4f4c3dbe5a76bc496c67113322cb48d9ef09da8faeec5c3cbd2339b1a0bc49",
+    "archive_members": 57
+  },
+  {
+    "id": "ML12",
+    "path": "ML/Scripts/ML Script Chapters 1-2-LOCKED.xlsx",
+    "sha256": "be89b9db79b93d26925f1fa6a7b4289e933697efd1ebb9ceaf30c20c2c6ffb20",
+    "inside_archive": "S14"
+  },
+  {
+    "id": "S14",
+    "path": "/Users/zhangshiyi/Desktop/枫叶互动/学习/爆款游戏剧本学习/评级A/ML-20261102T102909Z-1-001.zip",
+    "sha256": "833d08933c4b2139a05bd97a127f7c2a02a5c9ea8bc1e468b7338f4bbc244383",
+    "archive_members": 22
+  }
+]

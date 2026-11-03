@@ -1,0 +1,430 @@
+{
+  "chapter": 1,
+  "title": "Illustrative fragment — The Missing Signature",
+  "core_emotion": "让轻视我的人承认我的价值，由我决定反击的方式",
+  "nodes": [
+    {
+      "id": "ex_l039",
+      "kind": "line",
+      "character": "Narration",
+      "script": "The room goes quiet when you set the original contract on the table.",
+      "emotion": "neutral",
+      "thought_bubble": "no"
+    },
+    {
+      "id": "ex_fc01",
+      "kind": "choice",
+      "category": "FC",
+      "branches": [
+        {
+          "id": "ex_fc01_a",
+          "price": 0,
+          "button": "Ask him to explain the missing signature.",
+          "nodes": [
+            {
+              "id": "ex_l001",
+              "kind": "line",
+              "character": "Mara",
+              "script": "You checked every page except the one I signed.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l002",
+              "kind": "line",
+              "character": "Evan",
+              "script": "I checked it. I want to hear your version.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l003",
+              "kind": "line",
+              "character": "Narration",
+              "script": "He moves the empty chair beside him, leaving the choice to you.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            }
+          ]
+        },
+        {
+          "id": "ex_fc01_b",
+          "price": 0,
+          "button": "Let the document do the talking.",
+          "nodes": [
+            {
+              "id": "ex_l004",
+              "kind": "line",
+              "character": "Narration",
+              "script": "You slide the original across the table, signature facing up.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l005",
+              "kind": "line",
+              "character": "Evan",
+              "script": "You kept a copy. Good.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l006",
+              "kind": "line",
+              "character": "Mara",
+              "script": "I kept the truth.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            }
+          ]
+        },
+        {
+          "id": "ex_fc01_c",
+          "price": 0,
+          "button": "Tell him what this accusation cost me.",
+          "nodes": [
+            {
+              "id": "ex_l007",
+              "kind": "line",
+              "character": "Mara",
+              "script": "They took my name off six months of work.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l008",
+              "kind": "line",
+              "character": "Narration",
+              "script": "The faint amusement leaves his face.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l009",
+              "kind": "line",
+              "character": "Evan",
+              "script": "Then we start by putting it back.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ex_l040",
+      "kind": "line",
+      "character": "Evan",
+      "script": "The board is still here. How do you want to handle this?",
+      "emotion": "neutral",
+      "thought_bubble": "no"
+    },
+    {
+      "id": "ex_l041",
+      "kind": "line",
+      "character": "Mara",
+      "script": "They have spoken for me long enough.",
+      "emotion": "neutral",
+      "thought_bubble": "yes"
+    },
+    {
+      "id": "ex_pc01",
+      "kind": "choice",
+      "category": "PC",
+      "motivation": "夺回成果署名与决定下一步的主动权",
+      "branches": [
+        {
+          "id": "ex_pc01_a",
+          "price": 17,
+          "button": "Present the evidence and make him correct the record.",
+          "nodes": [
+            {
+              "id": "ex_l016",
+              "kind": "line",
+              "character": "Mara",
+              "script": "Read the signature aloud.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l017",
+              "kind": "line",
+              "character": "Narration",
+              "script": "The chairman glances at Evan. Evan keeps his eyes on the document.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l018",
+              "kind": "line",
+              "character": "Evan",
+              "script": "She asked you a question.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l019",
+              "kind": "line",
+              "character": "Chairman",
+              "script": "Mara Ellis. Lead designer.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l020",
+              "kind": "line",
+              "character": "Mara",
+              "script": "And the proposal you credited to Daniel?",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l021",
+              "kind": "line",
+              "character": "Chairman",
+              "script": "It is hers.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l022",
+              "kind": "line",
+              "character": "Narration",
+              "script": "You wait. He understands the silence before anyone else does.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l023",
+              "kind": "line",
+              "character": "Chairman",
+              "script": "The minutes will be corrected. I withdraw the accusation.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l024",
+              "kind": "line",
+              "character": "Narration",
+              "script": "Evan slides your nameplate back to the head of the table.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l025",
+              "kind": "line",
+              "character": "Evan",
+              "script": "Your work. Your seat.",
+              "emotion": "smile",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_pc02",
+              "kind": "choice",
+              "category": "PC",
+              "motivation": "在已完成的公开纠正之后取得独立的项目主持机会",
+              "branches": [
+                {
+                  "id": "ex_pc02_a",
+                  "price": 17,
+                  "button": "Take the floor and present my plan myself.",
+                  "nodes": [
+                    {
+                      "id": "ex_l010",
+                      "kind": "line",
+                      "character": "Narration",
+                      "script": "You turn the display toward the room. Your name fills the first slide.",
+                      "emotion": "neutral",
+                      "thought_bubble": "no"
+                    },
+                    {
+                      "id": "ex_l011",
+                      "kind": "line",
+                      "character": "Mara",
+                      "script": "Here is how we save the launch.",
+                      "emotion": "neutral",
+                      "thought_bubble": "no"
+                    },
+                    {
+                      "id": "ex_l012",
+                      "kind": "line",
+                      "character": "Evan",
+                      "script": "You have the floor, Mara.",
+                      "emotion": "neutral",
+                      "thought_bubble": "no"
+                    }
+                  ]
+                },
+                {
+                  "id": "ex_pc02_b",
+                  "price": 0,
+                  "button": "Let the corrected record stand for today.",
+                  "nodes": [
+                    {
+                      "id": "ex_l013",
+                      "kind": "line",
+                      "character": "Mara",
+                      "script": "The record is clear. Send me the revised minutes.",
+                      "emotion": "neutral",
+                      "thought_bubble": "no"
+                    },
+                    {
+                      "id": "ex_l014",
+                      "kind": "line",
+                      "character": "Evan",
+                      "script": "Before you leave.",
+                      "emotion": "neutral",
+                      "thought_bubble": "no"
+                    },
+                    {
+                      "id": "ex_l015",
+                      "kind": "line",
+                      "character": "Narration",
+                      "script": "You close the folder. This time, nobody reaches to take it from you.",
+                      "emotion": "neutral",
+                      "thought_bubble": "no"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ex_pc01_b",
+          "price": 12,
+          "button": "Secure his private backing before the next board vote.",
+          "nodes": [
+            {
+              "id": "ex_l026",
+              "kind": "line",
+              "character": "Narration",
+              "script": "Evan joins you outside, leaving the boardroom door closed.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l027",
+              "kind": "line",
+              "character": "Mara",
+              "script": "I need your vote on the record.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l028",
+              "kind": "line",
+              "character": "Evan",
+              "script": "You have it. In writing.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l029",
+              "kind": "line",
+              "character": "Narration",
+              "script": "He signs the review request and turns it toward you.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l030",
+              "kind": "line",
+              "character": "Mara",
+              "script": "Even if Daniel objects?",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l031",
+              "kind": "line",
+              "character": "Evan",
+              "script": "Especially then.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l032",
+              "kind": "line",
+              "character": "Narration",
+              "script": "You photograph the signed page before slipping it into your folder.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l033",
+              "kind": "line",
+              "character": "Mara",
+              "script": "Tomorrow, I make my case.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l034",
+              "kind": "line",
+              "character": "Evan",
+              "script": "Tomorrow, they listen.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l035",
+              "kind": "line",
+              "character": "Narration",
+              "script": "For the first time tonight, the next step belongs to you.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            }
+          ]
+        },
+        {
+          "id": "ex_pc01_c",
+          "price": 0,
+          "button": "Keep my evidence for the formal hearing.",
+          "nodes": [
+            {
+              "id": "ex_l036",
+              "kind": "line",
+              "character": "Mara",
+              "script": "I want a hearing with the full board present.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l037",
+              "kind": "line",
+              "character": "Evan",
+              "script": "I will arrange it.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            },
+            {
+              "id": "ex_l038",
+              "kind": "line",
+              "character": "Narration",
+              "script": "You keep the original. They can question your work, but they cannot erase it.",
+              "emotion": "neutral",
+              "thought_bubble": "no"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ex_l042",
+      "kind": "line",
+      "character": "Narration",
+      "script": "Your phone lights up before you reach the elevator.",
+      "emotion": "neutral",
+      "thought_bubble": "no"
+    },
+    {
+      "id": "ex_l043",
+      "kind": "line",
+      "character": "Mara",
+      "script": "Daniel sent the contract to someone else. Before the vote.",
+      "emotion": "shocked",
+      "thought_bubble": "no"
+    }
+  ]
+}

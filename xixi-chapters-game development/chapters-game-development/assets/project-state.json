@@ -1,0 +1,17 @@
+{
+  "project_id": "",
+  "source_book": {"title": "", "author": "", "version": "", "read_coverage": [], "missing": []},
+  "current_stage": "source_reading",
+  "core_emotion": {"text": "", "confirmed": false, "confirmation_evidence": ""},
+  "pitch": {"version": "", "confirmed": false, "confirmation_evidence": ""},
+  "format": {"chapters": 20, "batches": [[1,5],[6,10],[11,15],[16,20]], "written_rows": [500,600], "narration_character_limit": 120, "extra_text_types": [], "override_evidence": []},
+  "characters": [],
+  "relationship_state": [],
+  "delivered_chapters": [],
+  "unpaid_story_promises": [],
+  "paid_entitlements": [],
+  "callback_plan": [],
+  "assets_pending": [],
+  "open_questions": [],
+  "next_step": "read_source_then_confirm_core_emotion"
+}
